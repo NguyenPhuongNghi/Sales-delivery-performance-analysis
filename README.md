@@ -15,15 +15,12 @@ It helps operational managers track delivery efficiency, identify delayed shipme
 
 
 ## 4. Key Features and Insights
-Real-time KPIs: Total Orders, On-time Delivery Rate, Average Shipping Time.
+Including 4 dashboards:
+- **Overview:** Track general sales performance (total orders over time/by region/by product), delivery perfomance (average delivery time over time) and customer experience (average review score and top 10 reviews)
+- **Delivery performance Analysis:** Track duration for each step in the delivery process (including confirmation, pick-up, transit and last-mile delivery) and on-time & late & cancellation & delivering & processing ratio over time, by region and by product.
+- **Customer Experience Analysis:** Track positive & neutral & negative review ratio, average review score over time, by region and by product. Classify customer reviews into 3 categories: positive (when score >=8), neutral (when 5 < score < 8) and negative (when score <= 5)
+- **Shipper performance analysis:** Track number of shipper, average order per shipper, average late order per shipper, years of experience over time and by region
 
-Delivery Delay Analysis: Track percentage of late deliveries by shipping methods and regions.
-
-Interactive Filters: Slice data by month, region, and shipping method for detailed exploration.
-
-Trend Visualization: Line charts showing delivery performance over time.
-
-Top Delay Reasons: Identify the most common causes of delayed deliveries.
-
+  
 ## 5. Screenshots
 ![alt](https://github.com/NguyenPhuongNghi/Sales-delivery-performance-analysis/blob/main/Screenshot%202025-04-26%20150325.png?raw=true)
