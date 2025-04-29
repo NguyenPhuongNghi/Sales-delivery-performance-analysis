@@ -1,4 +1,4 @@
-# Sales & delivery performance analysis
+# Sales & delivery performance dashboard
 ## 1. Project Overview
 This dashboard was developed to monitor and analyze the sales & delivery performance of a company.
 It helps operational managers track delivery efficiency, identify delayed shipments, and optimize logistics processes to improve customer satisfaction and increase revenue.
